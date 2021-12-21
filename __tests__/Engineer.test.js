@@ -6,8 +6,8 @@ test('should create an Engineer object', () => {
 
 });
 
-test('should get engieer github username', () => {
-    const github = 'petepark02'
+test('should get engineer github username', () => {
+    const github = 'petepark02';
     const engineer = new Engineer('Peter', 100, 'peterparker@gmail.com', github);
     expect(engineer.getGithub()).toEqual(github)
 });
