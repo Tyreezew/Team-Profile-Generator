@@ -13,11 +13,10 @@ This application was created to generate a team profile based on user input usin
 * Contact
 
 # Installation
-The user should clone the repository from GitHub and download Node. This application also requires a file system (fs) and inquirer module. For testing purposes, this application uses Jest.
+The user should clone the repository from GitHub and download node. This application also requires a file system (fs) and inquirer module. For testing purposes, this application uses Jest. So, ensure Inquirer and Jest packages are installed.
 
 # Usage
-Use inquirer from your command line to answer questions about your team members.
-View walk through video here
+The user will naviagte to the index.js file in the terminal. The user should then type node index.js in the terminal where they will then be prompted with a series of questions. After the user answers each question and add all of their desired team members, the user's input will be added to specific sections of the newly generated HTML file. 
 
 
 
