@@ -20,6 +20,7 @@ The user will naviagte to the index.js file in the terminal. The user should the
 ![Screen Shot 2022-02-03 at 10 47 30 PM](https://user-images.githubusercontent.com/43646678/152592506-333ae534-c566-4aae-bf7d-8c37217c9a8f.png)
 [Screenshot of working generated HTML file.]
 https://watch.screencastify.com/v/RXYQNyzUVOrEsRpTdalc
+[walkthrough video]
 
 
 # License 
