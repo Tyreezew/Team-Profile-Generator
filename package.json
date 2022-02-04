@@ -7,7 +7,7 @@
     "lib": "lib"
   },
   "scripts": {
-    "test": "jest"
+    "test": "jest --watch"
   },
   "repository": {
     "type": "git",
@@ -18,5 +18,11 @@
   "bugs": {
     "url": "https://github.com/Tyreezew/Team-Profile-Generator/issues"
   },
-  "homepage": "https://github.com/Tyreezew/Team-Profile-Generator#readme"
+  "homepage": "https://github.com/Tyreezew/Team-Profile-Generator#readme",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "inquirer": "^8.2.0",
+    "jest": "^27.4.7",
+    "node": "^17.4.0"
+  }
 }
