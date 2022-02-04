@@ -30,10 +30,12 @@ This project is licensed under the [MIT License].
 Click the link below to watch a walkthrough video of testing.
 https://watch.screencastify.com/v/YPYpqiWPTmunDPEATG1T
 
-#Contributors
+# Contributors
+
 @Tyreezew
 
-#Contact
+# Contact
+
 If you have any questions or concerns, feel free to reach me at wedding5@msu.edu or @tyreezew on Github.
 
 MIT Copyright (c) 2022 Tyreezew
